@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DeputadoBuilder
+comment1.params=nome
+comment1.target=DeputadoBuilder\ nome(java.lang.String)
+comment2.params=matricula
+comment2.target=DeputadoBuilder\ matricula(int)
+comment3.params=estado
+comment3.target=DeputadoBuilder\ estado(java.lang.String)
+numComments=4

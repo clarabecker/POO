@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AlbumFactory
+comment1.params=tipoAlbumEnum
+comment1.target=Album\ getInstance(TipoAlbumEnum)
+numComments=2

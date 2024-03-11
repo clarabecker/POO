@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AlbumFisico
+comment1.params=estoque
+comment1.target=boolean\ setEstoque(int)
+comment2.params=
+comment2.target=int\ getEstoque()
+numComments=3
